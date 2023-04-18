@@ -1,6 +1,6 @@
 import './index.css';
 import Navbar from '../NavBar'
-import {Routes,Route,useParams} from 'react-router-dom'
+import {Routes,Route} from 'react-router-dom'
 import ContactUs from '../ContactUs'
 import Cart from '../Cart';
 import Home from '../Home';
